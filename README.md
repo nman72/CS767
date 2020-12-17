@@ -6,7 +6,7 @@ python3 canine101.py "archive/images/Images/n02107142-Doberman/n02107142_1694.jp
 
 First time running the program will take several hours to create the models and pickle files.
 
-Two pickle files will be create and they are huge, about 3.5GB each.
+Two pickle files will be created and they are huge, about 3.5GB each.
 
 Train and test datasets need to be downloaded and stored in the same folder as canine101.py.
 
